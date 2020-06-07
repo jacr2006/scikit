@@ -1,2 +1,2 @@
-# Machine Learning con Scikit-learn
-Pruebas basicas de machine learning con el paquete Scikit-learn
+# Scikit-learn test
+some practices...
